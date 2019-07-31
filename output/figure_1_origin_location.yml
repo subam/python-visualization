@@ -1,0 +1,1200 @@
+Day 0:
+  number_agent_reach_camp: 0
+  percentage_agents_reach_camp: 0.0
+  total_agents: 10838
+Day 1:
+  number_agent_reach_camp: 0
+  percentage_agents_reach_camp: 0.0
+  total_agents: 11216
+Day 10:
+  number_agent_reach_camp: 121
+  percentage_agents_reach_camp: 0.8011122881355932
+  total_agents: 15104
+Day 100:
+  number_agent_reach_camp: 31196
+  percentage_agents_reach_camp: 58.40197693574959
+  total_agents: 53416
+Day 101:
+  number_agent_reach_camp: 31397
+  percentage_agents_reach_camp: 58.454349121239204
+  total_agents: 53712
+Day 102:
+  number_agent_reach_camp: 31552
+  percentage_agents_reach_camp: 58.419892980799496
+  total_agents: 54009
+Day 103:
+  number_agent_reach_camp: 31763
+  percentage_agents_reach_camp: 58.48785607748541
+  total_agents: 54307
+Day 104:
+  number_agent_reach_camp: 32006
+  percentage_agents_reach_camp: 58.61582696921415
+  total_agents: 54603
+Day 105:
+  number_agent_reach_camp: 32215
+  percentage_agents_reach_camp: 58.68048598335125
+  total_agents: 54899
+Day 106:
+  number_agent_reach_camp: 32407
+  percentage_agents_reach_camp: 58.71152417703861
+  total_agents: 55197
+Day 107:
+  number_agent_reach_camp: 32611
+  percentage_agents_reach_camp: 58.76491152196633
+  total_agents: 55494
+Day 108:
+  number_agent_reach_camp: 32850
+  percentage_agents_reach_camp: 58.88363088836309
+  total_agents: 55788
+Day 109:
+  number_agent_reach_camp: 33096
+  percentage_agents_reach_camp: 59.00937845451628
+  total_agents: 56086
+Day 11:
+  number_agent_reach_camp: 156
+  percentage_agents_reach_camp: 0.9974424552429667
+  total_agents: 15640
+Day 110:
+  number_agent_reach_camp: 33287
+  percentage_agents_reach_camp: 59.03729847649114
+  total_agents: 56383
+Day 111:
+  number_agent_reach_camp: 33502
+  percentage_agents_reach_camp: 59.10831172039027
+  total_agents: 56679
+Day 112:
+  number_agent_reach_camp: 33709
+  percentage_agents_reach_camp: 59.16246906646542
+  total_agents: 56977
+Day 113:
+  number_agent_reach_camp: 33924
+  percentage_agents_reach_camp: 59.23209889476717
+  total_agents: 57273
+Day 114:
+  number_agent_reach_camp: 34124
+  percentage_agents_reach_camp: 59.274957008112004
+  total_agents: 57569
+Day 115:
+  number_agent_reach_camp: 34333
+  percentage_agents_reach_camp: 59.33087943041803
+  total_agents: 57867
+Day 116:
+  number_agent_reach_camp: 34540
+  percentage_agents_reach_camp: 59.38483228169111
+  total_agents: 58163
+Day 117:
+  number_agent_reach_camp: 34763
+  percentage_agents_reach_camp: 59.19826984316197
+  total_agents: 58723
+Day 118:
+  number_agent_reach_camp: 34973
+  percentage_agents_reach_camp: 58.995293601659895
+  total_agents: 59281
+Day 119:
+  number_agent_reach_camp: 35227
+  percentage_agents_reach_camp: 58.86864973262033
+  total_agents: 59840
+Day 12:
+  number_agent_reach_camp: 186
+  percentage_agents_reach_camp: 1.1498516320474776
+  total_agents: 16176
+Day 120:
+  number_agent_reach_camp: 35502
+  percentage_agents_reach_camp: 58.77814569536424
+  total_agents: 60400
+Day 121:
+  number_agent_reach_camp: 35772
+  percentage_agents_reach_camp: 58.68302765838774
+  total_agents: 60958
+Day 122:
+  number_agent_reach_camp: 36050
+  percentage_agents_reach_camp: 58.600734744302486
+  total_agents: 61518
+Day 123:
+  number_agent_reach_camp: 36307
+  percentage_agents_reach_camp: 58.28798022122687
+  total_agents: 62289
+Day 124:
+  number_agent_reach_camp: 36565
+  percentage_agents_reach_camp: 57.98629832852294
+  total_agents: 63058
+Day 125:
+  number_agent_reach_camp: 36798
+  percentage_agents_reach_camp: 57.65181425079903
+  total_agents: 63828
+Day 126:
+  number_agent_reach_camp: 36983
+  percentage_agents_reach_camp: 57.25099848292516
+  total_agents: 64598
+Day 127:
+  number_agent_reach_camp: 37137
+  percentage_agents_reach_camp: 56.810463515374025
+  total_agents: 65370
+Day 128:
+  number_agent_reach_camp: 37279
+  percentage_agents_reach_camp: 56.36462601490799
+  total_agents: 66139
+Day 129:
+  number_agent_reach_camp: 37418
+  percentage_agents_reach_camp: 55.92538897275322
+  total_agents: 66907
+Day 13:
+  number_agent_reach_camp: 209
+  percentage_agents_reach_camp: 1.2505235445461618
+  total_agents: 16713
+Day 130:
+  number_agent_reach_camp: 37537
+  percentage_agents_reach_camp: 55.46328994222728
+  total_agents: 67679
+Day 131:
+  number_agent_reach_camp: 37635
+  percentage_agents_reach_camp: 54.982541746409744
+  total_agents: 68449
+Day 132:
+  number_agent_reach_camp: 37720
+  percentage_agents_reach_camp: 54.379793552851616
+  total_agents: 69364
+Day 133:
+  number_agent_reach_camp: 37844
+  percentage_agents_reach_camp: 53.84593494778179
+  total_agents: 70282
+Day 134:
+  number_agent_reach_camp: 37957
+  percentage_agents_reach_camp: 53.31338839260633
+  total_agents: 71196
+Day 135:
+  number_agent_reach_camp: 38091
+  percentage_agents_reach_camp: 53.03085147853205
+  total_agents: 71828
+Day 136:
+  number_agent_reach_camp: 38227
+  percentage_agents_reach_camp: 52.75527525151461
+  total_agents: 72461
+Day 137:
+  number_agent_reach_camp: 38312
+  percentage_agents_reach_camp: 52.41541597690613
+  total_agents: 73093
+Day 138:
+  number_agent_reach_camp: 38452
+  percentage_agents_reach_camp: 52.46697958738129
+  total_agents: 73288
+Day 139:
+  number_agent_reach_camp: 38589
+  percentage_agents_reach_camp: 52.510613977792296
+  total_agents: 73488
+Day 14:
+  number_agent_reach_camp: 247
+  percentage_agents_reach_camp: 1.4319670705548146
+  total_agents: 17249
+Day 140:
+  number_agent_reach_camp: 38698
+  percentage_agents_reach_camp: 52.36748447162943
+  total_agents: 73897
+Day 141:
+  number_agent_reach_camp: 38821
+  percentage_agents_reach_camp: 52.24406852651836
+  total_agents: 74307
+Day 142:
+  number_agent_reach_camp: 38956
+  percentage_agents_reach_camp: 52.135276562144504
+  total_agents: 74721
+Day 143:
+  number_agent_reach_camp: 39093
+  percentage_agents_reach_camp: 52.03103787898954
+  total_agents: 75134
+Day 144:
+  number_agent_reach_camp: 39227
+  percentage_agents_reach_camp: 51.844362502147675
+  total_agents: 75663
+Day 145:
+  number_agent_reach_camp: 39324
+  percentage_agents_reach_camp: 51.61307258170363
+  total_agents: 76190
+Day 146:
+  number_agent_reach_camp: 39428
+  percentage_agents_reach_camp: 51.392744952358605
+  total_agents: 76719
+Day 147:
+  number_agent_reach_camp: 39542
+  percentage_agents_reach_camp: 51.18904294017891
+  total_agents: 77247
+Day 148:
+  number_agent_reach_camp: 39687
+  percentage_agents_reach_camp: 51.02730919563876
+  total_agents: 77776
+Day 149:
+  number_agent_reach_camp: 39838
+  percentage_agents_reach_camp: 51.01353514399498
+  total_agents: 78093
+Day 15:
+  number_agent_reach_camp: 278
+  percentage_agents_reach_camp: 1.5632028789923524
+  total_agents: 17784
+Day 150:
+  number_agent_reach_camp: 39965
+  percentage_agents_reach_camp: 50.96796408712952
+  total_agents: 78412
+Day 151:
+  number_agent_reach_camp: 40132
+  percentage_agents_reach_camp: 50.97486313810668
+  total_agents: 78729
+Day 152:
+  number_agent_reach_camp: 40251
+  percentage_agents_reach_camp: 51.056623877416406
+  total_agents: 78836
+Day 153:
+  number_agent_reach_camp: 40383
+  percentage_agents_reach_camp: 51.008601851734895
+  total_agents: 79169
+Day 154:
+  number_agent_reach_camp: 40515
+  percentage_agents_reach_camp: 51.13270650596328
+  total_agents: 79235
+Day 155:
+  number_agent_reach_camp: 40659
+  percentage_agents_reach_camp: 51.27109026254067
+  total_agents: 79302
+Day 156:
+  number_agent_reach_camp: 40804
+  percentage_agents_reach_camp: 51.189281413087116
+  total_agents: 79712
+Day 157:
+  number_agent_reach_camp: 40932
+  percentage_agents_reach_camp: 51.08836744882675
+  total_agents: 80120
+Day 158:
+  number_agent_reach_camp: 41065
+  percentage_agents_reach_camp: 50.99215218795013
+  total_agents: 80532
+Day 159:
+  number_agent_reach_camp: 41200
+  percentage_agents_reach_camp: 50.95667445858534
+  total_agents: 80853
+Day 16:
+  number_agent_reach_camp: 325
+  percentage_agents_reach_camp: 1.7740174672489082
+  total_agents: 18320
+Day 160:
+  number_agent_reach_camp: 41330
+  percentage_agents_reach_camp: 50.93100346276602
+  total_agents: 81149
+Day 161:
+  number_agent_reach_camp: 41481
+  percentage_agents_reach_camp: 50.95758141591833
+  total_agents: 81403
+Day 162:
+  number_agent_reach_camp: 41628
+  percentage_agents_reach_camp: 50.97847118469715
+  total_agents: 81658
+Day 163:
+  number_agent_reach_camp: 41754
+  percentage_agents_reach_camp: 50.97483854427366
+  total_agents: 81911
+Day 164:
+  number_agent_reach_camp: 41922
+  percentage_agents_reach_camp: 51.021103619501986
+  total_agents: 82166
+Day 165:
+  number_agent_reach_camp: 42090
+  percentage_agents_reach_camp: 51.06770201407426
+  total_agents: 82420
+Day 166:
+  number_agent_reach_camp: 42205
+  percentage_agents_reach_camp: 51.12349342862335
+  total_agents: 82555
+Day 167:
+  number_agent_reach_camp: 42347
+  percentage_agents_reach_camp: 51.18142592973084
+  total_agents: 82739
+Day 168:
+  number_agent_reach_camp: 42511
+  percentage_agents_reach_camp: 51.266250211041694
+  total_agents: 82922
+Day 169:
+  number_agent_reach_camp: 42666
+  percentage_agents_reach_camp: 51.339871247217374
+  total_agents: 83105
+Day 17:
+  number_agent_reach_camp: 378
+  percentage_agents_reach_camp: 2.0045606406109138
+  total_agents: 18857
+Day 170:
+  number_agent_reach_camp: 42839
+  percentage_agents_reach_camp: 51.434780520603205
+  total_agents: 83288
+Day 171:
+  number_agent_reach_camp: 42977
+  percentage_agents_reach_camp: 51.494128924035465
+  total_agents: 83460
+Day 172:
+  number_agent_reach_camp: 43147
+  percentage_agents_reach_camp: 51.59087919840254
+  total_agents: 83633
+Day 173:
+  number_agent_reach_camp: 43351
+  percentage_agents_reach_camp: 51.81249925300888
+  total_agents: 83669
+Day 174:
+  number_agent_reach_camp: 43528
+  percentage_agents_reach_camp: 52.00105129859269
+  total_agents: 83706
+Day 175:
+  number_agent_reach_camp: 43710
+  percentage_agents_reach_camp: 52.17733849018765
+  total_agents: 83772
+Day 176:
+  number_agent_reach_camp: 43905
+  percentage_agents_reach_camp: 52.36760496183206
+  total_agents: 83840
+Day 177:
+  number_agent_reach_camp: 44085
+  percentage_agents_reach_camp: 52.54031248882691
+  total_agents: 83907
+Day 178:
+  number_agent_reach_camp: 44281
+  percentage_agents_reach_camp: 52.732425898800805
+  total_agents: 83973
+Day 179:
+  number_agent_reach_camp: 44488
+  percentage_agents_reach_camp: 52.93669681104236
+  total_agents: 84040
+Day 18:
+  number_agent_reach_camp: 425
+  percentage_agents_reach_camp: 2.191625412541254
+  total_agents: 19392
+Day 180:
+  number_agent_reach_camp: 44706
+  percentage_agents_reach_camp: 53.15372085557682
+  total_agents: 84107
+Day 181:
+  number_agent_reach_camp: 44896
+  percentage_agents_reach_camp: 53.349177113659316
+  total_agents: 84155
+Day 182:
+  number_agent_reach_camp: 45053
+  percentage_agents_reach_camp: 53.505854967815495
+  total_agents: 84202
+Day 183:
+  number_agent_reach_camp: 45238
+  percentage_agents_reach_camp: 53.69368086217538
+  total_agents: 84252
+Day 184:
+  number_agent_reach_camp: 45427
+  percentage_agents_reach_camp: 53.88794647623341
+  total_agents: 84299
+Day 185:
+  number_agent_reach_camp: 45647
+  percentage_agents_reach_camp: 54.11874896260641
+  total_agents: 84346
+Day 186:
+  number_agent_reach_camp: 45849
+  percentage_agents_reach_camp: 54.32667812074175
+  total_agents: 84395
+Day 187:
+  number_agent_reach_camp: 46006
+  percentage_agents_reach_camp: 54.48172139786601
+  total_agents: 84443
+Day 188:
+  number_agent_reach_camp: 46187
+  percentage_agents_reach_camp: 54.6662879191374
+  total_agents: 84489
+Day 189:
+  number_agent_reach_camp: 46359
+  percentage_agents_reach_camp: 54.839358379861835
+  total_agents: 84536
+Day 19:
+  number_agent_reach_camp: 490
+  percentage_agents_reach_camp: 2.4587284861257466
+  total_agents: 19929
+Day 190:
+  number_agent_reach_camp: 46550
+  percentage_agents_reach_camp: 55.03600099313084
+  total_agents: 84581
+Day 191:
+  number_agent_reach_camp: 46700
+  percentage_agents_reach_camp: 55.18398600902796
+  total_agents: 84626
+Day 192:
+  number_agent_reach_camp: 46873
+  percentage_agents_reach_camp: 55.35897769011823
+  total_agents: 84671
+Day 193:
+  number_agent_reach_camp: 47052
+  percentage_agents_reach_camp: 55.54152157233075
+  total_agents: 84715
+Day 194:
+  number_agent_reach_camp: 47224
+  percentage_agents_reach_camp: 55.714302568398196
+  total_agents: 84761
+Day 195:
+  number_agent_reach_camp: 47390
+  percentage_agents_reach_camp: 55.88113908378044
+  total_agents: 84805
+Day 196:
+  number_agent_reach_camp: 47565
+  percentage_agents_reach_camp: 56.05708830773944
+  total_agents: 84851
+Day 197:
+  number_agent_reach_camp: 47732
+  percentage_agents_reach_camp: 56.22408594044478
+  total_agents: 84896
+Day 198:
+  number_agent_reach_camp: 47914
+  percentage_agents_reach_camp: 56.38466879273215
+  total_agents: 84977
+Day 199:
+  number_agent_reach_camp: 48101
+  percentage_agents_reach_camp: 56.55082414352559
+  total_agents: 85058
+Day 2:
+  number_agent_reach_camp: 4
+  percentage_agents_reach_camp: 0.03449465332873405
+  total_agents: 11596
+Day 20:
+  number_agent_reach_camp: 539
+  percentage_agents_reach_camp: 2.6336362747972246
+  total_agents: 20466
+Day 200:
+  number_agent_reach_camp: 48260
+  percentage_agents_reach_camp: 56.68377594286989
+  total_agents: 85139
+Day 201:
+  number_agent_reach_camp: 48457
+  percentage_agents_reach_camp: 56.861065477587424
+  total_agents: 85220
+Day 202:
+  number_agent_reach_camp: 48618
+  percentage_agents_reach_camp: 56.99514665541253
+  total_agents: 85302
+Day 203:
+  number_agent_reach_camp: 48801
+  percentage_agents_reach_camp: 57.155405642809455
+  total_agents: 85383
+Day 204:
+  number_agent_reach_camp: 49027
+  percentage_agents_reach_camp: 57.365674436019845
+  total_agents: 85464
+Day 205:
+  number_agent_reach_camp: 49214
+  percentage_agents_reach_camp: 57.529282491291234
+  total_agents: 85546
+Day 206:
+  number_agent_reach_camp: 49391
+  percentage_agents_reach_camp: 57.6822460467615
+  total_agents: 85626
+Day 207:
+  number_agent_reach_camp: 49580
+  percentage_agents_reach_camp: 57.84757548886918
+  total_agents: 85708
+Day 208:
+  number_agent_reach_camp: 49748
+  percentage_agents_reach_camp: 57.98878644115213
+  total_agents: 85789
+Day 209:
+  number_agent_reach_camp: 49919
+  percentage_agents_reach_camp: 58.13322464190055
+  total_agents: 85870
+Day 21:
+  number_agent_reach_camp: 591
+  percentage_agents_reach_camp: 2.8141517070615683
+  total_agents: 21001
+Day 210:
+  number_agent_reach_camp: 50108
+  percentage_agents_reach_camp: 58.29833277099743
+  total_agents: 85951
+Day 211:
+  number_agent_reach_camp: 50288
+  percentage_agents_reach_camp: 58.451989352922716
+  total_agents: 86033
+Day 212:
+  number_agent_reach_camp: 50454
+  percentage_agents_reach_camp: 58.56869232108654
+  total_agents: 86145
+Day 213:
+  number_agent_reach_camp: 50616
+  percentage_agents_reach_camp: 58.682495884248844
+  total_agents: 86254
+Day 214:
+  number_agent_reach_camp: 50789
+  percentage_agents_reach_camp: 58.80670634277377
+  total_agents: 86366
+Day 215:
+  number_agent_reach_camp: 50967
+  percentage_agents_reach_camp: 58.93705840859419
+  total_agents: 86477
+Day 216:
+  number_agent_reach_camp: 51145
+  percentage_agents_reach_camp: 59.06775843948861
+  total_agents: 86587
+Day 217:
+  number_agent_reach_camp: 51344
+  percentage_agents_reach_camp: 59.220299884659745
+  total_agents: 86700
+Day 218:
+  number_agent_reach_camp: 51538
+  percentage_agents_reach_camp: 59.35984704513781
+  total_agents: 86823
+Day 219:
+  number_agent_reach_camp: 51736
+  percentage_agents_reach_camp: 59.50223121865943
+  total_agents: 86948
+Day 22:
+  number_agent_reach_camp: 648
+  percentage_agents_reach_camp: 2.860674554123256
+  total_agents: 22652
+Day 220:
+  number_agent_reach_camp: 51906
+  percentage_agents_reach_camp: 59.61273428886439
+  total_agents: 87072
+Day 221:
+  number_agent_reach_camp: 52081
+  percentage_agents_reach_camp: 59.728657277856776
+  total_agents: 87196
+Day 222:
+  number_agent_reach_camp: 52227
+  percentage_agents_reach_camp: 59.81035489744735
+  total_agents: 87321
+Day 223:
+  number_agent_reach_camp: 52393
+  percentage_agents_reach_camp: 59.91400505449015
+  total_agents: 87447
+Day 224:
+  number_agent_reach_camp: 52617
+  percentage_agents_reach_camp: 60.08427351208149
+  total_agents: 87572
+Day 225:
+  number_agent_reach_camp: 52815
+  percentage_agents_reach_camp: 60.22440904477918
+  total_agents: 87697
+Day 226:
+  number_agent_reach_camp: 52985
+  percentage_agents_reach_camp: 60.33294997779575
+  total_agents: 87821
+Day 227:
+  number_agent_reach_camp: 53141
+  percentage_agents_reach_camp: 60.470647139817245
+  total_agents: 87879
+Day 228:
+  number_agent_reach_camp: 53322
+  percentage_agents_reach_camp: 60.63728165938864
+  total_agents: 87936
+Day 229:
+  number_agent_reach_camp: 53497
+  percentage_agents_reach_camp: 60.796881570124896
+  total_agents: 87993
+Day 23:
+  number_agent_reach_camp: 747
+  percentage_agents_reach_camp: 3.073821084684388
+  total_agents: 24302
+Day 230:
+  number_agent_reach_camp: 53702
+  percentage_agents_reach_camp: 60.988961068459545
+  total_agents: 88052
+Day 231:
+  number_agent_reach_camp: 53921
+  percentage_agents_reach_camp: 61.18417320064905
+  total_agents: 88129
+Day 232:
+  number_agent_reach_camp: 54123
+  percentage_agents_reach_camp: 61.359771444119446
+  total_agents: 88206
+Day 233:
+  number_agent_reach_camp: 54301
+  percentage_agents_reach_camp: 61.50578800715856
+  total_agents: 88286
+Day 234:
+  number_agent_reach_camp: 54499
+  percentage_agents_reach_camp: 61.676267215916155
+  total_agents: 88363
+Day 235:
+  number_agent_reach_camp: 54706
+  percentage_agents_reach_camp: 61.856625961103575
+  total_agents: 88440
+Day 236:
+  number_agent_reach_camp: 54842
+  percentage_agents_reach_camp: 61.954360596475375
+  total_agents: 88520
+Day 237:
+  number_agent_reach_camp: 55014
+  percentage_agents_reach_camp: 62.09465331783244
+  total_agents: 88597
+Day 238:
+  number_agent_reach_camp: 55180
+  percentage_agents_reach_camp: 62.225830824227245
+  total_agents: 88677
+Day 239:
+  number_agent_reach_camp: 55368
+  percentage_agents_reach_camp: 62.427980291123106
+  total_agents: 88691
+Day 24:
+  number_agent_reach_camp: 899
+  percentage_agents_reach_camp: 3.463954070820329
+  total_agents: 25953
+Day 240:
+  number_agent_reach_camp: 55519
+  percentage_agents_reach_camp: 62.58835465870018
+  total_agents: 88705
+Day 241:
+  number_agent_reach_camp: 55699
+  percentage_agents_reach_camp: 62.78136588554876
+  total_agents: 88719
+Day 242:
+  number_agent_reach_camp: 55894
+  percentage_agents_reach_camp: 62.99122085357195
+  total_agents: 88733
+Day 243:
+  number_agent_reach_camp: 56041
+  percentage_agents_reach_camp: 63.146923276279765
+  total_agents: 88747
+Day 244:
+  number_agent_reach_camp: 56195
+  percentage_agents_reach_camp: 63.310462928538435
+  total_agents: 88761
+Day 245:
+  number_agent_reach_camp: 56353
+  percentage_agents_reach_camp: 63.478456772740074
+  total_agents: 88775
+Day 246:
+  number_agent_reach_camp: 56512
+  percentage_agents_reach_camp: 63.64752390498823
+  total_agents: 88789
+Day 247:
+  number_agent_reach_camp: 56666
+  percentage_agents_reach_camp: 63.81018873023737
+  total_agents: 88804
+Day 248:
+  number_agent_reach_camp: 56834
+  percentage_agents_reach_camp: 63.98856100609104
+  total_agents: 88819
+Day 249:
+  number_agent_reach_camp: 57014
+  percentage_agents_reach_camp: 64.18038138550554
+  total_agents: 88834
+Day 25:
+  number_agent_reach_camp: 1063
+  percentage_agents_reach_camp: 4.012380628845355
+  total_agents: 26493
+Day 250:
+  number_agent_reach_camp: 57171
+  percentage_agents_reach_camp: 64.34625037985796
+  total_agents: 88849
+Day 251:
+  number_agent_reach_camp: 57350
+  percentage_agents_reach_camp: 64.53682030968672
+  total_agents: 88864
+Day 252:
+  number_agent_reach_camp: 57505
+  percentage_agents_reach_camp: 64.70032291092383
+  total_agents: 88879
+Day 253:
+  number_agent_reach_camp: 57655
+  percentage_agents_reach_camp: 64.85887527701844
+  total_agents: 88893
+Day 254:
+  number_agent_reach_camp: 57778
+  percentage_agents_reach_camp: 64.98554701998674
+  total_agents: 88909
+Day 255:
+  number_agent_reach_camp: 57918
+  percentage_agents_reach_camp: 65.13202285097387
+  total_agents: 88924
+Day 256:
+  number_agent_reach_camp: 58043
+  percentage_agents_reach_camp: 65.26231756954283
+  total_agents: 88938
+Day 257:
+  number_agent_reach_camp: 58181
+  percentage_agents_reach_camp: 65.40571531353284
+  total_agents: 88954
+Day 258:
+  number_agent_reach_camp: 58328
+  percentage_agents_reach_camp: 65.56065102059168
+  total_agents: 88968
+Day 259:
+  number_agent_reach_camp: 58502
+  percentage_agents_reach_camp: 65.74514233055753
+  total_agents: 88983
+Day 26:
+  number_agent_reach_camp: 1249
+  percentage_agents_reach_camp: 4.62044983722995
+  total_agents: 27032
+Day 260:
+  number_agent_reach_camp: 58648
+  percentage_agents_reach_camp: 65.89736963336667
+  total_agents: 88999
+Day 261:
+  number_agent_reach_camp: 58789
+  percentage_agents_reach_camp: 66.04540909754755
+  total_agents: 89013
+Day 262:
+  number_agent_reach_camp: 58924
+  percentage_agents_reach_camp: 66.18591903670755
+  total_agents: 89028
+Day 263:
+  number_agent_reach_camp: 59059
+  percentage_agents_reach_camp: 66.32563676384709
+  total_agents: 89044
+Day 264:
+  number_agent_reach_camp: 59191
+  percentage_agents_reach_camp: 66.43955550566842
+  total_agents: 89090
+Day 265:
+  number_agent_reach_camp: 59324
+  percentage_agents_reach_camp: 66.55373189584573
+  total_agents: 89137
+Day 266:
+  number_agent_reach_camp: 59465
+  percentage_agents_reach_camp: 66.6775058026754
+  total_agents: 89183
+Day 267:
+  number_agent_reach_camp: 59592
+  percentage_agents_reach_camp: 66.78396521388306
+  total_agents: 89231
+Day 268:
+  number_agent_reach_camp: 59745
+  percentage_agents_reach_camp: 66.92093148291274
+  total_agents: 89277
+Day 269:
+  number_agent_reach_camp: 59871
+  percentage_agents_reach_camp: 67.0267789172003
+  total_agents: 89324
+Day 27:
+  number_agent_reach_camp: 1419
+  percentage_agents_reach_camp: 5.146712125058938
+  total_agents: 27571
+Day 270:
+  number_agent_reach_camp: 60016
+  percentage_agents_reach_camp: 67.15377471439281
+  total_agents: 89371
+Day 271:
+  number_agent_reach_camp: 60160
+  percentage_agents_reach_camp: 67.2975814931651
+  total_agents: 89394
+Day 272:
+  number_agent_reach_camp: 60286
+  percentage_agents_reach_camp: 67.42193790820434
+  total_agents: 89416
+Day 273:
+  number_agent_reach_camp: 60713
+  percentage_agents_reach_camp: 67.88202014781024
+  total_agents: 89439
+Day 274:
+  number_agent_reach_camp: 60855
+  percentage_agents_reach_camp: 68.02405517488067
+  total_agents: 89461
+Day 275:
+  number_agent_reach_camp: 61005
+  percentage_agents_reach_camp: 68.17419873943945
+  total_agents: 89484
+Day 276:
+  number_agent_reach_camp: 61097
+  percentage_agents_reach_camp: 68.26022836457891
+  total_agents: 89506
+Day 277:
+  number_agent_reach_camp: 61256
+  percentage_agents_reach_camp: 68.42028839817266
+  total_agents: 89529
+Day 278:
+  number_agent_reach_camp: 61396
+  percentage_agents_reach_camp: 68.5598150774419
+  total_agents: 89551
+Day 279:
+  number_agent_reach_camp: 61559
+  percentage_agents_reach_camp: 68.72418335677763
+  total_agents: 89574
+Day 28:
+  number_agent_reach_camp: 1619
+  percentage_agents_reach_camp: 5.75951618641053
+  total_agents: 28110
+Day 280:
+  number_agent_reach_camp: 61699
+  percentage_agents_reach_camp: 68.8635653377383
+  total_agents: 89596
+Day 281:
+  number_agent_reach_camp: 61807
+  percentage_agents_reach_camp: 68.96640221381627
+  total_agents: 89619
+Day 282:
+  number_agent_reach_camp: 61947
+  percentage_agents_reach_camp: 69.10565477850538
+  total_agents: 89641
+Day 283:
+  number_agent_reach_camp: 62063
+  percentage_agents_reach_camp: 69.21730014275518
+  total_agents: 89664
+Day 284:
+  number_agent_reach_camp: 62199
+  percentage_agents_reach_camp: 69.35196128715742
+  total_agents: 89686
+Day 285:
+  number_agent_reach_camp: 62315
+  percentage_agents_reach_camp: 69.46348749846727
+  total_agents: 89709
+Day 286:
+  number_agent_reach_camp: 62438
+  percentage_agents_reach_camp: 69.58353300420144
+  total_agents: 89731
+Day 287:
+  number_agent_reach_camp: 62563
+  percentage_agents_reach_camp: 69.70497136617867
+  total_agents: 89754
+Day 288:
+  number_agent_reach_camp: 62693
+  percentage_agents_reach_camp: 69.83269470682588
+  total_agents: 89776
+Day 289:
+  number_agent_reach_camp: 62810
+  percentage_agents_reach_camp: 69.94509961135424
+  total_agents: 89799
+Day 29:
+  number_agent_reach_camp: 1812
+  percentage_agents_reach_camp: 6.414613423959219
+  total_agents: 28248
+Day 290:
+  number_agent_reach_camp: 62947
+  percentage_agents_reach_camp: 70.08049342581356
+  total_agents: 89821
+Day 291:
+  number_agent_reach_camp: 63061
+  percentage_agents_reach_camp: 70.18943947286408
+  total_agents: 89844
+Day 292:
+  number_agent_reach_camp: 63168
+  percentage_agents_reach_camp: 70.29758062721181
+  total_agents: 89858
+Day 293:
+  number_agent_reach_camp: 63278
+  percentage_agents_reach_camp: 70.40745933195363
+  total_agents: 89874
+Day 294:
+  number_agent_reach_camp: 63397
+  percentage_agents_reach_camp: 70.52809576255159
+  total_agents: 89889
+Day 295:
+  number_agent_reach_camp: 63517
+  percentage_agents_reach_camp: 70.6490184083199
+  total_agents: 89905
+Day 296:
+  number_agent_reach_camp: 63619
+  percentage_agents_reach_camp: 70.75066725978648
+  total_agents: 89920
+Day 297:
+  number_agent_reach_camp: 63736
+  percentage_agents_reach_camp: 70.8626574608363
+  total_agents: 89943
+Day 298:
+  number_agent_reach_camp: 63818
+  percentage_agents_reach_camp: 70.93489835161782
+  total_agents: 89967
+Day 299:
+  number_agent_reach_camp: 63907
+  percentage_agents_reach_camp: 71.01645756703597
+  total_agents: 89989
+Day 3:
+  number_agent_reach_camp: 7
+  percentage_agents_reach_camp: 0.058450233800935204
+  total_agents: 11976
+Day 30:
+  number_agent_reach_camp: 2010
+  percentage_agents_reach_camp: 7.080955400549567
+  total_agents: 28386
+Day 31:
+  number_agent_reach_camp: 2204
+  percentage_agents_reach_camp: 7.727097430144095
+  total_agents: 28523
+Day 32:
+  number_agent_reach_camp: 2416
+  percentage_agents_reach_camp: 8.375511336060459
+  total_agents: 28846
+Day 33:
+  number_agent_reach_camp: 2648
+  percentage_agents_reach_camp: 9.02645214071448
+  total_agents: 29336
+Day 34:
+  number_agent_reach_camp: 3983
+  percentage_agents_reach_camp: 13.353225157570067
+  total_agents: 29828
+Day 35:
+  number_agent_reach_camp: 5047
+  percentage_agents_reach_camp: 16.64687644303714
+  total_agents: 30318
+Day 36:
+  number_agent_reach_camp: 6034
+  percentage_agents_reach_camp: 19.585821864450793
+  total_agents: 30808
+Day 37:
+  number_agent_reach_camp: 6860
+  percentage_agents_reach_camp: 21.915532553830428
+  total_agents: 31302
+Day 38:
+  number_agent_reach_camp: 7630
+  percentage_agents_reach_camp: 23.999748364368394
+  total_agents: 31792
+Day 39:
+  number_agent_reach_camp: 8303
+  percentage_agents_reach_camp: 25.719418889198646
+  total_agents: 32283
+Day 4:
+  number_agent_reach_camp: 12
+  percentage_agents_reach_camp: 0.09711880867594691
+  total_agents: 12356
+Day 40:
+  number_agent_reach_camp: 9000
+  percentage_agents_reach_camp: 27.403933986967903
+  total_agents: 32842
+Day 41:
+  number_agent_reach_camp: 9665
+  percentage_agents_reach_camp: 28.93539309023412
+  total_agents: 33402
+Day 42:
+  number_agent_reach_camp: 10299
+  percentage_agents_reach_camp: 30.324176309513295
+  total_agents: 33963
+Day 43:
+  number_agent_reach_camp: 10896
+  percentage_agents_reach_camp: 31.562481895602808
+  total_agents: 34522
+Day 44:
+  number_agent_reach_camp: 11562
+  percentage_agents_reach_camp: 32.95801145919444
+  total_agents: 35081
+Day 45:
+  number_agent_reach_camp: 12154
+  percentage_agents_reach_camp: 34.099262127205904
+  total_agents: 35643
+Day 46:
+  number_agent_reach_camp: 12769
+  percentage_agents_reach_camp: 35.27250628435679
+  total_agents: 36201
+Day 47:
+  number_agent_reach_camp: 13340
+  percentage_agents_reach_camp: 36.35372666575828
+  total_agents: 36695
+Day 48:
+  number_agent_reach_camp: 13928
+  percentage_agents_reach_camp: 37.453948960658295
+  total_agents: 37187
+Day 49:
+  number_agent_reach_camp: 14548
+  percentage_agents_reach_camp: 38.6103665171581
+  total_agents: 37679
+Day 5:
+  number_agent_reach_camp: 24
+  percentage_agents_reach_camp: 0.18844221105527637
+  total_agents: 12736
+Day 50:
+  number_agent_reach_camp: 15130
+  percentage_agents_reach_camp: 39.6363826888819
+  total_agents: 38172
+Day 51:
+  number_agent_reach_camp: 15717
+  percentage_agents_reach_camp: 40.64916591232381
+  total_agents: 38665
+Day 52:
+  number_agent_reach_camp: 16220
+  percentage_agents_reach_camp: 41.42193166147403
+  total_agents: 39158
+Day 53:
+  number_agent_reach_camp: 16726
+  percentage_agents_reach_camp: 42.18517490983379
+  total_agents: 39649
+Day 54:
+  number_agent_reach_camp: 17174
+  percentage_agents_reach_camp: 42.782054156390906
+  total_agents: 40143
+Day 55:
+  number_agent_reach_camp: 17603
+  percentage_agents_reach_camp: 43.31766616630164
+  total_agents: 40637
+Day 56:
+  number_agent_reach_camp: 17979
+  percentage_agents_reach_camp: 43.7136813440638
+  total_agents: 41129
+Day 57:
+  number_agent_reach_camp: 18343
+  percentage_agents_reach_camp: 44.07044351544856
+  total_agents: 41622
+Day 58:
+  number_agent_reach_camp: 18694
+  percentage_agents_reach_camp: 44.38903927435057
+  total_agents: 42114
+Day 59:
+  number_agent_reach_camp: 19088
+  percentage_agents_reach_camp: 44.80120170867953
+  total_agents: 42606
+Day 6:
+  number_agent_reach_camp: 32
+  percentage_agents_reach_camp: 0.24399542508577965
+  total_agents: 13115
+Day 60:
+  number_agent_reach_camp: 19442
+  percentage_agents_reach_camp: 45.11009536184134
+  total_agents: 43099
+Day 61:
+  number_agent_reach_camp: 19862
+  percentage_agents_reach_camp: 45.56340612956506
+  total_agents: 43592
+Day 62:
+  number_agent_reach_camp: 20242
+  percentage_agents_reach_camp: 45.98364379827351
+  total_agents: 44020
+Day 63:
+  number_agent_reach_camp: 20621
+  percentage_agents_reach_camp: 46.39771397713977
+  total_agents: 44444
+Day 64:
+  number_agent_reach_camp: 21000
+  percentage_agents_reach_camp: 46.80082904325734
+  total_agents: 44871
+Day 65:
+  number_agent_reach_camp: 21374
+  percentage_agents_reach_camp: 47.36095723465544
+  total_agents: 45130
+Day 66:
+  number_agent_reach_camp: 21768
+  percentage_agents_reach_camp: 47.95981316647572
+  total_agents: 45388
+Day 67:
+  number_agent_reach_camp: 22137
+  percentage_agents_reach_camp: 48.496067649571714
+  total_agents: 45647
+Day 68:
+  number_agent_reach_camp: 22477
+  percentage_agents_reach_camp: 48.96629849900878
+  total_agents: 45903
+Day 69:
+  number_agent_reach_camp: 22841
+  percentage_agents_reach_camp: 49.47901999436778
+  total_agents: 46163
+Day 7:
+  number_agent_reach_camp: 54
+  percentage_agents_reach_camp: 0.40014820303816234
+  total_agents: 13495
+Day 70:
+  number_agent_reach_camp: 23197
+  percentage_agents_reach_camp: 49.973071371636614
+  total_agents: 46419
+Day 71:
+  number_agent_reach_camp: 23541
+  percentage_agents_reach_camp: 50.43167162964074
+  total_agents: 46679
+Day 72:
+  number_agent_reach_camp: 23886
+  percentage_agents_reach_camp: 50.88840598235971
+  total_agents: 46938
+Day 73:
+  number_agent_reach_camp: 24241
+  percentage_agents_reach_camp: 51.364580243251254
+  total_agents: 47194
+Day 74:
+  number_agent_reach_camp: 24564
+  percentage_agents_reach_camp: 51.764904221018696
+  total_agents: 47453
+Day 75:
+  number_agent_reach_camp: 24870
+  percentage_agents_reach_camp: 52.127436596101454
+  total_agents: 47710
+Day 76:
+  number_agent_reach_camp: 25244
+  percentage_agents_reach_camp: 52.625654068252416
+  total_agents: 47969
+Day 77:
+  number_agent_reach_camp: 25557
+  percentage_agents_reach_camp: 52.992037820353325
+  total_agents: 48228
+Day 78:
+  number_agent_reach_camp: 25894
+  percentage_agents_reach_camp: 53.406208105599674
+  total_agents: 48485
+Day 79:
+  number_agent_reach_camp: 26244
+  percentage_agents_reach_camp: 53.83936814032209
+  total_agents: 48745
+Day 8:
+  number_agent_reach_camp: 72
+  percentage_agents_reach_camp: 0.5131128848346637
+  total_agents: 14032
+Day 80:
+  number_agent_reach_camp: 26530
+  percentage_agents_reach_camp: 54.20702055494259
+  total_agents: 48942
+Day 81:
+  number_agent_reach_camp: 26804
+  percentage_agents_reach_camp: 54.54508455261391
+  total_agents: 49141
+Day 82:
+  number_agent_reach_camp: 27081
+  percentage_agents_reach_camp: 54.88205252918288
+  total_agents: 49344
+Day 83:
+  number_agent_reach_camp: 27389
+  percentage_agents_reach_camp: 55.28552108354696
+  total_agents: 49541
+Day 84:
+  number_agent_reach_camp: 27665
+  percentage_agents_reach_camp: 55.61921994370728
+  total_agents: 49740
+Day 85:
+  number_agent_reach_camp: 27968
+  percentage_agents_reach_camp: 56.00432527683774
+  total_agents: 49939
+Day 86:
+  number_agent_reach_camp: 28262
+  percentage_agents_reach_camp: 56.36729890903289
+  total_agents: 50139
+Day 87:
+  number_agent_reach_camp: 28532
+  percentage_agents_reach_camp: 56.68083753824149
+  total_agents: 50338
+Day 88:
+  number_agent_reach_camp: 28785
+  percentage_agents_reach_camp: 56.958268199536974
+  total_agents: 50537
+Day 89:
+  number_agent_reach_camp: 29004
+  percentage_agents_reach_camp: 57.165382265407885
+  total_agents: 50737
+Day 9:
+  number_agent_reach_camp: 93
+  percentage_agents_reach_camp: 0.6384293265600329
+  total_agents: 14567
+Day 90:
+  number_agent_reach_camp: 29223
+  percentage_agents_reach_camp: 57.37312260724453
+  total_agents: 50935
+Day 91:
+  number_agent_reach_camp: 29428
+  percentage_agents_reach_camp: 57.54962354551677
+  total_agents: 51135
+Day 92:
+  number_agent_reach_camp: 29634
+  percentage_agents_reach_camp: 57.72782171660108
+  total_agents: 51334
+Day 93:
+  number_agent_reach_camp: 29827
+  percentage_agents_reach_camp: 57.878293941863625
+  total_agents: 51534
+Day 94:
+  number_agent_reach_camp: 30044
+  percentage_agents_reach_camp: 58.075116463379274
+  total_agents: 51733
+Day 95:
+  number_agent_reach_camp: 30231
+  percentage_agents_reach_camp: 58.211541794234876
+  total_agents: 51933
+Day 96:
+  number_agent_reach_camp: 30425
+  percentage_agents_reach_camp: 58.25307779203125
+  total_agents: 52229
+Day 97:
+  number_agent_reach_camp: 30621
+  percentage_agents_reach_camp: 58.297953355544976
+  total_agents: 52525
+Day 98:
+  number_agent_reach_camp: 30825
+  percentage_agents_reach_camp: 58.35636666540457
+  total_agents: 52822
+Day 99:
+  number_agent_reach_camp: 31022
+  percentage_agents_reach_camp: 58.40094881304242
+  total_agents: 53119
